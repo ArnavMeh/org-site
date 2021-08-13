@@ -126,7 +126,7 @@ const Team = () => {
                                         roles: ['Director', 'Fullstack', 'Design']
                                     }}
                         />
-                        <TeamCard info={{name: "Arnav Mehra", img: "https://cdn.discordapp.com/attachments/701265165525450834/765037663849152532/Screen_Shot_2020-10-11_at_10.26.27_PM.png", li: "https://www.linkedin.com/in/arnav-mehra-ab8975193/", gh: "https://github.com/ArnavMeh", roles: ['Fullstack']}}/>
+                        <TeamCard info={{name: "Arnav Mehra", img: "https://cdn.discordapp.com/attachments/825396901620351006/875637894948204584/latest.png", li: "https://www.linkedin.com/in/arnav-mehra-ab8975193/", gh: "https://github.com/ArnavMeh", roles: ['Fullstack']}}/>
                         <TeamCard info={{name: "Chris Farber", img: "https://cdn.discordapp.com/attachments/627006557321691138/795345177346179132/1583975027966.png", li: "https://www.linkedin.com/in/preston-mccrary-62b90a178/", gh: "https://github.com/farbs03", roles: ['Backend', 'Mobile'], }}/>
                         <TeamCard info={{name: "Aaron Ni", img: "https://cdn.discordapp.com/attachments/627006557321691138/773816409632669736/aaron.png", li: "https://www.linkedin.com/in/aaron-ni/", gh: "https://github.com/Physige", roles: ['Frontend', 'Mobile']}}/>
 
